@@ -39,12 +39,9 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-f-aldosari-037140256?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b3cm2pgonqlkioygxqd5zbg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-f-aldosari-037140256?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b3cm2pgonqlkioygxqd5zbg%3d%3d" height="30" width="40" /></a>
-</p>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/mohammed-f-aldosari-037140256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrCpnY%2B7tS3yj3qQdn1v3Mg%3D%3D" target="_blank" rel="noreferrer"> 
-    <img src="https://img.freepik.com/free-icon/linkedin_318-187585.jpg" alt="" width="40" height="40"/> 
+    <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="" width="40" height="40"/> 
   </a>
   <a href="https://twitter.com/MAF_Aldosari" target="_blank" rel="noreferrer"> 
     <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2023/08/16/64c964d42ec72_com.twitter.android-384x384.png" alt="" width="40" height="40"/> 
