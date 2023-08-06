@@ -1,6 +1,9 @@
 <h1 align="center">Hey there 💚 حللت أهلًا ووطئت سهلًا</h1>
 <img src="https://github.com/Mohammed-A-F/Mohammed-A-F/blob/main/Me.png">
 
+<h3>Accont Visitor Count</h3>
+<img src="https://profile-counter.glitch.me/Mohammed-A-F/count.svg">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
